@@ -52,8 +52,8 @@ hr{
 .conteudo{
     border-top: 0.4px solid #fff2ef  ;
     margin-bottom: 48px;
-    max-height: 1000px;
-    min-height: 600px;
+    max-height: 2000px;
+    min-height: 1200px;
 }
 
 .conteudo-principal{
